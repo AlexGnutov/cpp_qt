@@ -16,7 +16,7 @@ MainWindow::~MainWindow()
 }
 
 
-void MainWindow::on_pushButton_clicked()
+void MainWindow::on_open_c_btn_clicked()
 {
     c_dialog->show();
 }
